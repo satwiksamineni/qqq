@@ -12,7 +12,7 @@ import java.util.Set;
 // if occurs more than twice,leave the first occurence and delete the duplicate
 //
 // O/P= helwrd;
-
+//
 public class CharCountString{
 	public static void main(String[] args){
 		String input1="helloworld";
